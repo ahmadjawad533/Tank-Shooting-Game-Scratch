@@ -1,46 +1,61 @@
+# 🔫 Tank Shooting Game
 
-# 🎯 Scratch Game: Tank-Shooting-Game
-
-This is an interactive **Scratch 3.0** game titled **"Tank Shooting Game"** where the player controls a tank, shoots bullets, and interacts with dynamic elements like explosions and enemies. The game demonstrates fundamental programming concepts like event handling, sprite interaction, and costume switching.
+**Tank Shooting Game** is a Scratch 3.0 project created as the **Week 0 assignment** for the **CS50x – Introduction to Computer Science** course offered by **Harvard University**. It demonstrates basic programming concepts through an engaging tank shooter game, allowing players to interact with sprites, fire bullets, and experience visual effects like explosions.
 
 ---
 
-## 🕹 Game Overview
+## 🎓 CS50x Week 0 – Scratch
+
+This project was built for:
+- **Course**: [CS50x – Introduction to Computer Science](https://cs50.harvard.edu/x/)
+- **Instructor**: David J. Malan
+- **Platform**: MIT Scratch
+- **Topic**: Scratch Programming Fundamentals
+
+---
+
+## 🎮 Game Overview
 
 - **Main Character**: 🛡️ `Tank`
-- **Weapons**: 🔫 `Bullet`
+- **Weapon**: 🔫 `Bullet`
 - **Enemies/Effects**:
-  - ⚡ Explosion Effect (`ThunderThunder_Pngtree...`)
-  - 🧍 Enemy Sprite (`YQDj`)
+  - ⚡ Explosion (`ThunderThunder_Pngtree...`)
+  - 🧍 Enemy (`YQDj`)
 - **Backgrounds**:
   - ❄ Arctic Scene
   - 🎤 Concert Stage
 
----
+### 🧠 Objective
 
-## 🎮 How to Play
-
-1. Use the arrow keys to **move the tank**.
-2. Press the space bar to **shoot bullets**.
-3. Avoid or destroy enemy characters.
-4. Experience visual effects like explosions during interactions.
+Control a tank, shoot bullets, and protect against enemies by hitting them with precision.
 
 ---
 
-## 🧠 Learning Objectives
+## 🕹️ How to Play
 
-- Control movement and direction using keyboard events.
-- Implement sprite-to-sprite interactions and hit detection.
-- Work with multiple costumes and sound effects.
-- Use Scratch’s visual coding blocks to build engaging games.
+1. Move the tank using the **arrow keys**.
+2. Press the **spacebar** to **shoot bullets**.
+3. Destroy enemies and enjoy the visual explosion effects.
+4. Switch between different stages for immersive gameplay.
 
 ---
 
-## 🔊 Assets Used
+## 💡 Features
 
-- **Sprites**: Tank, Bullet, Explosion, Enemy
-- **Backdrops**: Arctic, Concert
-- **Sounds**: `pop.wav` and other custom effects
+- Sprite movement with keyboard events
+- Firing mechanism using spacebar
+- Explosions triggered by sprite collisions
+- Multiple backdrops with interactive scenes
+- Sound effects (`pop.wav` and more)
+
+---
+
+## 🎯 Learning Objectives
+
+- Understand event-driven programming
+- Work with control blocks, loops, and conditionals
+- Design sprite behaviors and interactions
+- Combine visuals and sound for a game experience
 
 ---
 
