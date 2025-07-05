@@ -1,5 +1,5 @@
 
-# 🎯 Scratch Game: Tank-Shooting-Game-Scratch
+# 🎯 Scratch Game: Tank-Shooting-Game
 
 This is an interactive **Scratch 3.0** game titled **"Tank Shooting Game"** where the player controls a tank, shoots bullets, and interacts with dynamic elements like explosions and enemies. The game demonstrates fundamental programming concepts like event handling, sprite interaction, and costume switching.
 
