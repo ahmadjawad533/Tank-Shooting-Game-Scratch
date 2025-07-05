@@ -59,4 +59,10 @@ Control a tank, shoot bullets, and protect against enemies by hitting them with 
 
 ---
 
+## 📁 Project Files
 
+Tank Shooting Game.sb3  (Main Scratch project file)
+
+README.md  (Project documentation)
+
+---
